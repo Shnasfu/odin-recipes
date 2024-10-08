@@ -26,19 +26,12 @@ p
     margin-right: 500px;
 }
 
-/* Porkchops Styles */
-.porky {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-}
-
-
 .ullist {
     font-family: 'Courier New', Courier, monospace;
     list-style: inside;
     text-align: center;
     text-align: justify;
-    margin-left: 625px;
+    margin-left: 550px;
     margin-right: 500px;
 }
 
@@ -51,9 +44,23 @@ h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
+/* Porkchops Styles */
+.porky {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
 /* Mussels & Chorizo Styles */
 
 .mussels {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+/* Spagg with Meath Sauce */
+
+.spag {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
