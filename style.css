@@ -2,7 +2,8 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.lists, a {
+.lists, 
+a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     list-style-type: none;
@@ -11,33 +12,48 @@
 body {
     background-color: blanchedalmond;
 }
-/* Porkchops Styles */
-.porky {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-}
 
-.porkchops {
+img {
     margin-left: 575px;
-}
-
-.ullist {
-    font-family: 'Courier New', Courier, monospace;
-    list-style: inside;
-    text-align: center;
-}
-
-.ollist {
-    font-family: 'Courier New', Courier, monospace;
 }
 
 p 
  {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    list-style: inside;
+    text-align: justify;
+    margin-left: 500px;
+    margin-right: 500px;
 }
+
+/* Porkchops Styles */
+.porky {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+.ullist {
+    font-family: 'Courier New', Courier, monospace;
+    list-style: inside;
+    text-align: center;
+    text-align: justify;
+    margin-left: 625px;
+    margin-right: 500px;
+}
+
+.ollist {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 
 h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+/* Mussels & Chorizo Styles */
+
+.mussels {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
