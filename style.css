@@ -11,7 +11,33 @@
 body {
     background-color: blanchedalmond;
 }
-
+/* Porkchops Styles */
 .porky {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.porkchops {
+    margin-left: 575px;
+}
+
+.ullist {
     font-family: 'Courier New', Courier, monospace;
+    list-style: inside;
+    text-align: center;
+}
+
+.ollist {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p 
+ {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    list-style: inside;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
